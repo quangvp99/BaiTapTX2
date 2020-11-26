@@ -6,7 +6,7 @@ using System.Windows.Forms;
 
 namespace QuanLy
 {
-    //test
+    //test2
     static class Program
     {
         /// <summary>
